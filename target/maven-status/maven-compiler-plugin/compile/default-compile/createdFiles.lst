@@ -1,0 +1,8 @@
+com\example\tutorial7\controller\tut7Controller.class
+com\example\tutorial7\repository\tut7Repository.class
+com\example\tutorial7\Tutorial7Application.class
+com\example\tutorial7\request\User.class
+com\example\tutorial7\request\Request.class
+com\example\tutorial7\response\getAllResponse.class
+com\example\tutorial7\response\getResponse.class
+com\example\tutorial7\response\Response.class
